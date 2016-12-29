@@ -1,0 +1,4 @@
+Django==1.9.6
+django-autoslug==1.9.3
+django-extensions==1.7.5
+six==1.10.0
